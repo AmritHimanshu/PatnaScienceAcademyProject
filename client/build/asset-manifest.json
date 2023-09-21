@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdbb826b.css",
+    "main.js": "/static/js/main.4ececbed.js",
+    "static/media/pattern.jpg": "/static/media/pattern.e22de9cfe172a138cd80.jpg",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/whatsappLogo.png": "/static/media/whatsappLogo.7cbd26a7c67b12da0b76.png",
+    "static/media/bannerImage2.jpeg": "/static/media/bannerImage2.cf0324a479316866c332.jpeg",
+    "static/media/target-amico.png": "/static/media/target-amico.f5171d16e81608686663.png",
+    "static/media/finance-leaders-rafiki.png": "/static/media/finance-leaders-rafiki.ad03e0fabc0c0cfcd665.png",
+    "static/media/customer-survey-amico.png": "/static/media/customer-survey-amico.9c728a329c02d62e5261.png",
+    "static/media/navLogo2.png": "/static/media/navLogo2.104e44f2718b4b71ef7a.png",
+    "static/media/most-test3.png": "/static/media/most-test3.e48c5d75708acb7c2444.png",
+    "static/media/most-test2.png": "/static/media/most-test2.28c7d5e31e4c6fc30cae.png",
+    "index.html": "/index.html",
+    "main.bdbb826b.css.map": "/static/css/main.bdbb826b.css.map",
+    "main.4ececbed.js.map": "/static/js/main.4ececbed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbb826b.css",
+    "static/js/main.4ececbed.js"
+  ]
+}

@@ -1,0 +1,83 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+
+/* .heading {
+  background-image: url('https://i.pinimg.com/736x/d3/05/f8/d305f8bf2ae916c7e797af7559e9d224.jpg'); 
+  background-size: cover;
+  background-position: center;
+  color: #ff0000;
+  font: bolder;
+  text-align: left;
+  padding: 40px;
+  height: 450px;
+} */
+
+/* .heading span{
+  color: #000000;
+} */
+
+/* .image{
+  width: 90%;
+  position: absolute;
+  justify-content: right;
+  display: flex;
+} */
+
+
+/* .heading h1{
+  width: 50%;
+  text-align: center;
+  margin-top: 80px;
+} */
+
+/* .description {
+  color: #000000;
+  font: bolder;
+  margin-top: 20px;
+  width: 50%;
+  font-size: 20px;
+  margin-left: 50px;
+} */
+
+
+/* .head{
+  margin-top: 80px;
+  text-align: center;
+  color: rgb(35, 34, 34);
+} */
+
+/* .head p{
+  width: 90%;
+  text-align: center;
+  margin-left: 80px;
+  font-size: 18px;
+  margin-top: 10px;
+} */
+
+/* .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+} */
+
+/* .card img {
+  width: 80%;
+  height: 240px;
+  margin-left: 30px;
+  object-fit: cover;
+  border-radius: 5px;
+} */
+
+/* .card h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+} */
+
+/* .card p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+} */
